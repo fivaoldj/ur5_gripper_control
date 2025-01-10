@@ -23,11 +23,11 @@ def update_octomap():
 
 if __name__ == "__main__":
     try:
-        # Initialise moveit_commander and rosnode
+        # Инициализация MoveIt commander и rosnode
         moveit_commander.roscpp_initialize(sys.argv)
         rospy.init_node('pick_place', anonymous=False)
         
-        # Octomap topics and services
+        # Топики и сервисы Octomap topics and services
         camera_topics = ['camera_1_depth', 'camera_2_depth']
         clear_octomap = rospy.ServiceProxy('/clear_octomap', Empty)
         publish_octomap = rospy.ServiceProxy('/filter_workspace', FilterWorkspace)

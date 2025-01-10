@@ -33,6 +33,10 @@
     <origin xyz="-1.25 0 1.5" rpy="0 ${pi/6} 0.0"/>
   </xacro:sensor_d435>
 
+  <xacro:sensor_d435 parent="world" name="camera_3_depth" topics_ns="camera_3_depth">
+    <origin xyz="0.7 0 1" rpy="0 ${pi/2} 0.0"/>
+  </xacro:sensor_d435>
+
   <xacro:stereo_camera_v0 name="camera_1_stereo" image_format="R8G8B8"
         parent="world" hfov="90" focal_length="639.997649"
         image_width="1280" image_height="720">
@@ -44,7 +48,13 @@
       image_width="1280" image_height="720">
       <origin xyz="-1.25 0 1.25" rpy="0 ${pi/6} 0.0" />
   </xacro:stereo_camera_v0>
-
+  
+  <!-- Тут настроить камеру на рабочую область -->
+  <xacro:stereo_camera_v0 name="camera_3_stereo" image_format="R8G8B8"
+      parent="world" hfov="90" focal_length="639.997649"
+      image_width="1280" image_height="720">
+      <origin xyz="0.7 0 1" rpy="0 ${pi/2} 0" />
+  </xacro:stereo_camera_v0>
   <link name="world" />
 
   <link name="pedestal">

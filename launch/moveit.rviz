@@ -209,6 +209,72 @@ Visualization Manager:
             Alpha: 1
             Show Axes: false
             Show Trail: false
+
+          camera_3_depth_bottom_screw_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_color_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_color_optical_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_depth_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_depth_optical_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_left_ir_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_left_ir_optical_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_link:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+            Value: true
+          camera_3_depth_right_ir_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_right_ir_optical_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_stereo_l_stereo_camera_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_stereo_l_stereo_camera_optical_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_stereo_link:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_stereo_optical_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_stereo_r_stereo_camera_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_stereo_r_stereo_camera_optical_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
           ee_link:
             Alpha: 1
             Show Axes: false
@@ -492,6 +558,72 @@ Visualization Manager:
             Alpha: 1
             Show Axes: false
             Show Trail: false
+
+          camera_3_depth_bottom_screw_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_color_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_color_optical_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_depth_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_depth_optical_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_left_ir_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_left_ir_optical_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_link:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+            Value: true
+          camera_3_depth_right_ir_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_depth_right_ir_optical_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_stereo_l_stereo_camera_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_stereo_l_stereo_camera_optical_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_stereo_link:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_stereo_optical_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_stereo_r_stereo_camera_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
+          camera_3_stereo_r_stereo_camera_optical_frame:
+            Alpha: 1
+            Show Axes: false
+            Show Trail: false
           ee_link:
             Alpha: 1
             Show Axes: false
@@ -741,6 +873,72 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
         camera_2_stereo_r_stereo_camera_optical_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+
+        camera_3_depth_bottom_screw_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        camera_3_depth_color_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        camera_3_depth_color_optical_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        camera_3_depth_depth_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        camera_3_depth_depth_optical_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        camera_3_depth_left_ir_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        camera_3_depth_left_ir_optical_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        camera_3_depth_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        camera_3_depth_right_ir_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        camera_3_depth_right_ir_optical_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        camera_3_stereo_l_stereo_camera_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        camera_3_stereo_l_stereo_camera_optical_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        camera_3_stereo_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        camera_3_stereo_optical_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        camera_3_stereo_r_stereo_camera_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        camera_3_stereo_r_stereo_camera_optical_frame:
           Alpha: 1
           Show Axes: false
           Show Trail: false

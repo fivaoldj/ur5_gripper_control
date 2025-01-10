@@ -80,6 +80,9 @@
   <include file="$(find stereo_image_proc)/launch/stereo_image_proc.launch" ns="camera_2_stereo">
     <arg name="manager" value="/pipeline" />
   </include>
+  <include file="$(find stereo_image_proc)/launch/stereo_image_proc.launch" ns="camera_3_stereo">
+    <arg name="manager" value="/pipeline" />
+  </include>
 
   <include file="$(find ur5_gripper_control)/launch/control_nodes.launch" />
 
